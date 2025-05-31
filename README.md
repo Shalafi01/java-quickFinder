@@ -1,5 +1,12 @@
 # QuickFinder: Rapid File Difference Comparison
 This Java Swing application helps you quickly find differences between the files in two selected directories. It's especially handy when dealing with many files and you need to pinpoint what's missing or unique in each folder.
+
+## Table of Contents
+- [Features](#features)
+- [How it Works](#how-it-works)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
       
 ## Features
 * **Directory Selection**: Easily pick two different folders to compare.
