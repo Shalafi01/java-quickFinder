@@ -39,3 +39,4 @@ QuickFinder performs its magic by:
 6.  **Information**: Click "Info" for a brief explanation of how the application works.
 
 ## Screenshots
+<img src="img/screenshot.png" alt="Contacts App Screenshot" style="width: 500px;"/>
