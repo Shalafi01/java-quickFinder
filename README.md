@@ -4,7 +4,7 @@ This Java Swing application helps you quickly find differences between the files
 ## Table of Contents
 - [Features](#features)
 - [How it Works](#how-it-works)
-- [Technologies Used](#technologies-used)
+- [Java Concepts and Features](#Java-Concepts-and-Features)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
       
@@ -23,12 +23,10 @@ QuickFinder performs its magic by:
 3.  Comparing these simplified lists to figure out which files are unique to each directory.
 4.  For files with numbers in their names in the first directory, it checks for any missing numbers in the sequence.
 
-## Technologies Used
-* **Java Swing**: For creating the graphical user interface.
-* **`java.io.File`**: Handles file system interactions and directory Browse.
-* **`java.util.SortedSet` (specifically `TreeSet`)**: Used to store and sort file names efficiently, which helps in quick comparisons and automatically removes duplicates.
-* **`javax.swing.JFileChooser`**: Enables easy directory selection by the user.
-* **`javax.swing.JOptionPane`**: Displays informative messages and alerts to the user.
+## Java Concepts and Features
+- File I/O
+- Static UI via FXML
+- Java Swing UI
 
 ## Usage
 1.  **Select Folder 1**: Click the "Browse..." button next to the first "Path:" label. Choose your first directory.
